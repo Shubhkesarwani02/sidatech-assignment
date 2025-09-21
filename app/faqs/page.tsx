@@ -5,6 +5,12 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 import { Shield, ArrowLeft } from "lucide-react"
 import { useRouter } from "next/navigation"
 
+// This would be better as a server component with metadata export, but keeping as client component as requested
+// export const metadata = {
+//   title: 'FAQs - Medence Legal | Frequently Asked Questions',
+//   description: 'Find answers to common questions about Medence Legal services, pricing, and legal support.',
+// }
+
 const allFaqs = [
   {
     question: "Are you an insurance company?",

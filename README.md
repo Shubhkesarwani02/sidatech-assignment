@@ -39,10 +39,10 @@ Medence Legal is a modern, responsive landing page for a professional legal serv
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-organization/medence-legal-landing.git
+git clone https://github.com/Shubhkesarwani02/sidatech-assignment.git
 
 # Navigate to project directory
-cd medence-legal-landing
+cd sidatech-assignment
 
 # Install dependencies
 npm install
@@ -91,7 +91,7 @@ npm start
 ### Project Structure
 
 ```
-sida-tech-landing-page/
+sidatech-assignment/
 ├── app/                    # Next.js App Router
 │   ├── globals.css        # Global styles and custom animations
 │   ├── layout.tsx         # Root layout component
@@ -360,9 +360,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For technical support, feature requests, or business inquiries:
 
 - **Email**: [support@medence.legal.in](mailto:support@medence.legal.in)
-- **Documentation**: [Project Wiki](https://github.com/your-org/medence-legal/wiki)
-- **Issues**: [GitHub Issues](https://github.com/your-org/medence-legal/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-org/medence-legal/discussions)
+- **Documentation**: [Project Wiki](https://github.com/Shubhkesarwani02/sidatech-assignment/wiki)
+- **Issues**: [GitHub Issues](https://github.com/Shubhkesarwani02/sidatech-assignment/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Shubhkesarwani02/sidatech-assignment/discussions)
 
 ---
 
